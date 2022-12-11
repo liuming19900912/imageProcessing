@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.12)
+project(test)
+find_package(OpenCV REQUIRED)
+find_package(Glog REQUIRED)
+find_package(Gflags REQUIRED)
+find_package(Threads REQUIRED)
+add_subdirectory(pro1-10)
+add_subdirectory(pro11-20) 

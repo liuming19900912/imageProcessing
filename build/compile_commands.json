@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/liuming/imageProcess/imageProcessing/build",
+  "command": "/usr/bin/clang++ -DGFLAGS_IS_A_DLL=0 -I/Users/liuming/imageProcess/imageProcessing/pro1-10/. -isystem /usr/local/Cellar/opencv/4.6.0/include/opencv4 -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++11 -o pro1-10/CMakeFiles/prob1-10.dir/main.cpp.o -c /Users/liuming/imageProcess/imageProcessing/pro1-10/main.cpp",
+  "file": "/Users/liuming/imageProcess/imageProcessing/pro1-10/main.cpp"
+}
+]
